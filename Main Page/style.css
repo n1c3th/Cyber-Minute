@@ -1,12 +1,15 @@
+.flex {
+    display: flex;
+}
 .grid {
-    display: grid;
+    display: flex;
     gap: 100px 100px;
     grid-template-columns: auto auto auto auto;
 }
 body {
     background-color: rgba(22, 21, 21, 0.873);
     font-family: 'Ubuntu', sans-serif;
-
+   
 }
 .card {
     background-color: rgb(144, 144, 144);
