@@ -9,7 +9,7 @@ body {
 
 }
 .card {
-    background-color: lightgrey;
+    background-color: rgb(144, 144, 144);
     width: 300px;
     margin: 20px;
     border-radius: 25px;
@@ -17,6 +17,7 @@ body {
 a {
     text-align: justify;
     color: white;
+    margin: 15px;
 }
 .header {
     background-color: lightgrey;
@@ -42,4 +43,9 @@ a:hover {
 }
 li {
     color: lightgreen;  
+}
+
+.desc {
+    color: lightgreen;
+    margin: 15px;
 }
